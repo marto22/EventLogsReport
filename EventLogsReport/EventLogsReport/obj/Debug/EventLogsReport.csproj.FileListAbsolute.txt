@@ -1,0 +1,14 @@
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\bin\Debug\EventLogsReport.exe.config
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\bin\Debug\EventLogsReport.exe
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\bin\Debug\EventLogsReport.pdb
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.csproj.AssemblyReference.cache
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.Form1.resources
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.Properties.Resources.resources
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.csproj.GenerateResource.cache
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.csproj.CoreCompileInputs.cache
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.exe
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.pdb
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\bin\Debug\EventLogsReport.exe.manifest
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\bin\Debug\EventLogsReport.application
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.exe.manifest
+C:\Users\mmagallanes\source\repos\EventLogsReport\EventLogsReport\obj\Debug\EventLogsReport.application
